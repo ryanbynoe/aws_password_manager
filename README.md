@@ -1,6 +1,7 @@
 # AWS Password Manager
 
 ![Simpsons](/images/200w.gif)
+
 ![Office](/images/office.gif)
 
 
@@ -79,7 +80,7 @@ sudo dpkg-reconfigure passbolt-ce-server
 ![PassConfi4](/images/domainsite.png)
 ![PassConfi5](/images/adminsite.png)
 
-- When successful should display similar to below. If faild, ensure the correct domain site is entered in the nginx config.
+- When successful should display similar to below. If failed, ensure the correct domain site is entered in the nginx config.
 
 ![PassConfi6](/images/successcertificate.png)
 
